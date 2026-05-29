@@ -13,7 +13,8 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 
 ﻿
 
-Datové sady, které je možné požít pro získání vhodného datového podkladu
+*Datové sady, které je možné požít pro získání vhodného datového podkladu*
+
 **Primární tabulky:**
 
 czechia_payroll – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
