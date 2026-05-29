@@ -69,25 +69,29 @@ Technická dokumentace zdrojové datové sady : https://csu.gov.cz/docs/107508/a
 
 id = id záznamu  unikátní identifikátor údaje Veřejné databáze ČSÚ
 
-value 	- může být buď mzda v Kč.
+value 	
+		- může být buď mzda v Kč.
 
 	    - nebo počet zaměstnanců. 
 	
-Value_type_code 	- určuje jestli se zobrazí mzda 5958.
+Value_type_code 	
+					- určuje jestli se zobrazí mzda 5958.
 
 			        - nebo jestli počet zaměstnanců kod 316.
 
-Unit_code - jeslti se zobrazí cena v kč - tedy kod 200
+Unit_code 
+					- jeslti se zobrazí cena v kč - tedy kod 200
 
-		      - nebo jestli je to počet zaměstnanců v tis - kod 80403
+		      		- nebo jestli je to počet zaměstnanců v tis - kod 80403
 
-Calculation_code - kod 100 - je fyzický počet zaměstnanců
+Calculation_code  
+					- kod 100 - je fyzický počet zaměstnanců
 
-			           - kod 200 je přepočtený počet zaměstnanců na plný úvazek
+			        - kod 200 je přepočtený počet zaměstnanců na plný úvazek
 			
-Payroll_year - rok kdy byla průměrná mzda zaznamenána
+Payroll_year 		- rok kdy byla průměrná mzda zaznamenána
 
-Payroll_quarter - kvártál z roku měření
+Payroll_quarter 	- kvártál z roku měření
 
 ***Období dat od roku 2000 - 2021.*** 
 
