@@ -98,12 +98,54 @@ id = id záznamu
 value - cena v czk
 
 category_code - kod kategorie produktu
+				- Hovězí maso zadní bez kosti [1 kg] [0112101]
+				- Vepřová pečeně s kostí [1 kg] [0112201]
+				- Šunkový salám [1 kg] [0112704]
+				- Kuřata kuchaná celá [1 kg] [0112401]
+				- Mléko polotučné pasterované [1 l] [0114201]
+				- Eidamská cihla [1 kg] [0114501]
+				- Jogurt bílý netučný [150 g] [0114401]
+				- Vejce slepičí čerstvá [10 ks] [0114701]
+				- Máslo [1 kg] [0115101]
+				- Rostlinný roztíratelný tuk [1 kg] [0115201]
+				- Pšeničná mouka hladká [1 kg] [0111201]
+				- Rýže loupaná dlouhozrnná [1 kg] [0111101]
+				- Těstoviny vaječné [1 kg] [0111602]
+				- Chléb konzumní kmínový [1 kg] [0111301]
+				- Pečivo pšeničné bílé [1 kg] [0111303]
+				- Cukr krystalový [1 kg] [0118101]
+				- Přírodní minerální voda uhličitá [1 l] [0122102]
+				- Jakostní víno bílé - od 2015 [0,75 l] [0212101]
+				- Jakostní víno bílé - do 2014 [1 l] [0212104]
+				- Pivo výčepní, světlé, lahvové [0,5 l] [0213201]
+				- Konzumní brambory [1 kg] [0117401]
+				- Pomeranče [1 kg] [0116101]
+				- Banány žluté [1 kg] [0116103]
+				- Rajská jablka červená kulatá [1 kg] [0117101]
+				- Jablka konzumní [1 kg] [0116104]
+				- Papriky [1 kg] [0117103]
+				- Mrkev [1 kg] [0117106]
 
 date_from - provedené měření od
 
 date_to - provedené měření do
 
 region_code - kod regionu - uzemí
+				- Česko [CZ]
+				- Hlavní město Praha [CZ010]
+				- Středočeský kraj [CZ020]
+				- Jihočeský kraj [CZ031]
+				. Plzeňský kraj [CZ032]
+				- Karlovarský kraj [CZ041]
+				- Ústecký kraj [CZ042]
+				- Liberecký kraj [CZ051]
+				- Královéhradecký kraj [CZ052]
+				- Pardubický kraj [CZ053]
+				- Kraj Vysočina [CZ063]
+				- Jihomoravský kraj [CZ064]
+				- Olomoucký kraj [CZ071]
+				- Zlínský kraj [CZ072]
+				- Moravskoslezský kraj [CZ080]
 ***Poznámka - v dokumentaci není jednoznačně uvedeno že pro celorepublikové měření je hodnota NULL.***
 
 
