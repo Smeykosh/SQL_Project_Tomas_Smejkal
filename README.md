@@ -139,7 +139,7 @@ industry_branch_code - kod měřeného odvětví (kódy vyjádřené také v tab
 				
 
 ***Období dat od roku 2000 - 2021.*** 
-
+***
 Zdroj tabulky **czechia_price**: https://csu.gov.cz/
 
 Technická dokumentace zdrojové datové sady : https://data.csu.gov.cz/datastat/info/SADA/CEN0101G
