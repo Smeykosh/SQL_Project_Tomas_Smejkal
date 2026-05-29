@@ -65,7 +65,7 @@ Zdroj tabulky **czechia_payroll**: https://csu.gov.cz/
 
 Technická dokumentace zdrojové datové sady : https://csu.gov.cz/docs/107508/a7309d97-c5be-4ef4-de2f-d2962e385b93/110079-22dds.htm
 
-### **Popis sloupců v tabulce czechia_payroll:
+### **Popis sloupců v tabulce czechia_payroll**:
 
 id = id záznamu  unikátní identifikátor údaje Veřejné databáze ČSÚ
 
@@ -86,6 +86,25 @@ Payroll_year - rok kdy byla průměrná mzda zaznamenána
 Payroll_quarter - kvártál z roku měření
 
 ***Období dat od roku 2000 - 2021.*** 
+
+Zdroj tabulky **czechia_price**: https://csu.gov.cz/
+
+Technická dokumentace zdrojové datové sady : https://data.csu.gov.cz/datastat/info/SADA/CEN0101G
+
+### **Popis sloupců v tabulce czechia_price**:
+
+id = id záznamu
+
+value - cena v czk
+
+category_code - kod kategorie produktu
+
+date_from - provedené měření od
+
+date_to - provedené měření do
+
+region_code - kod regionu - uzemí
+***Poznámka - v dokumentaci není jednoznačně uvedeno že pro celorepublikové měření je hodnota NULL.***
 
 
 
