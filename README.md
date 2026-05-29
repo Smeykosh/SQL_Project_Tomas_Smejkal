@@ -60,3 +60,32 @@ Neupravujte data v primárních tabulkách! Pokud bude potřeba transformovat ho
 ***
 
 ## **Tvorba primarní tabulky t_tomas_smejkal_project_sql_primary**
+
+Zdroj tabulky **czechia_payroll**: https://csu.gov.cz/
+
+Technická dokumentace zdrojové datové sady : https://csu.gov.cz/docs/107508/a7309d97-c5be-4ef4-de2f-d2962e385b93/110079-22dds.htm
+
+### **Popis sloupců v tabulce czechia_payroll:
+
+id = id záznamu  unikátní identifikátor údaje Veřejné databáze ČSÚ
+
+value - může být buď mzda v Kč
+	    - Nebo počet zaměstanců 
+	
+Value_type_code - určuje jestli se zobrazí mzda 5958
+			          - nebo jestli počet zaměstnanců kod 316
+
+Unit_code - jeslti se zobrazí cena v kč - tedy kod 200
+		      - nebo jestli je to počet zaměstnanců v tis - kod 80403
+
+Calculation_code - kod 100 - je fyzický počet zaměstnanců
+			           - kod 200 je přepočtený počet zaměstnanců na plný úvazek
+			
+Payroll_year - rok kdy byla průměrná mzda zaznamenána
+
+Payroll_quarter - kvártál z roku měření
+
+***Období dat od roku 2000 - 2021.*** 
+
+
+
