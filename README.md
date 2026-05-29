@@ -93,6 +93,48 @@ Payroll_year 		- rok kdy byla průměrná mzda zaznamenána
 
 Payroll_quarter 	- kvártál z roku měření
 
+industry_branch_code - kod měřeného odvětví
+
+					A	Zemědělství, lesnictví, rybářství
+					
+					B	Těžba a dobývání
+
+					C	Zpracovatelský průmysl
+
+					D	Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu
+
+					E	Zásobování vodou; činnosti související s odpadními vodami, odpady a sanacemi
+					
+					F	Stavebnictví
+					
+					G	Velkoobchod a maloobchod; opravy a údržba motorových vozidel
+
+					H	Doprava a skladování
+					
+					I	Ubytování, stravování a pohostinství
+					
+					J	Informační a komunikační činnosti
+					
+					K	Peněžnictví a pojišťovnictví
+					
+					L	Činnosti v oblasti nemovitostí
+					
+					M	Profesní, vědecké a technické činnosti
+					
+					N	Administrativní a podpůrné činnosti
+					
+					O	Veřejná správa a obrana; povinné sociální zabezpečení
+					
+					P	Vzdělávání
+					
+					Q	Zdravotní a sociální péče
+					
+					R	Kulturní, zábavní a rekreační činnosti
+					
+					S	Ostatní činnosti
+
+				
+
 ***Období dat od roku 2000 - 2021.*** 
 
 Zdroj tabulky **czechia_price**: https://csu.gov.cz/
