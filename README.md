@@ -69,13 +69,16 @@ Technická dokumentace zdrojové datové sady : https://csu.gov.cz/docs/107508/a
 
 id = id záznamu  unikátní identifikátor údaje Veřejné databáze ČSÚ
 
-value 	* může být buď mzda v Kč.
-	    * nebo počet zaměstnanců. 
+value 	- může být buď mzda v Kč.
+
+	    - nebo počet zaměstnanců. 
 	
-Value_type_code 	* určuje jestli se zobrazí mzda 5958.
-			        * nebo jestli počet zaměstnanců kod 316.
+Value_type_code 	- určuje jestli se zobrazí mzda 5958.
+
+			        - nebo jestli počet zaměstnanců kod 316.
 
 Unit_code - jeslti se zobrazí cena v kč - tedy kod 200
+
 		      - nebo jestli je to počet zaměstnanců v tis - kod 80403
 
 Calculation_code - kod 100 - je fyzický počet zaměstnanců
