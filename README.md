@@ -75,16 +75,19 @@ value
 	    - nebo počet zaměstnanců. 
 	
 Value_type_code 	(kódy také vyjádřené v tabulce **czechia_payroll_value_type**)
+
 					- určuje jestli se zobrazí mzda 5958.
 
 			        - nebo jestli počet zaměstnanců kod 316.
 
 Unit_code 			(kódy vyjádřené také v tabulce **czechia_payroll_unit**)
+
 					- jeslti se zobrazí cena v kč - tedy kod 200
 
 		      		- nebo jestli je to počet zaměstnanců v tis - kod 80403
 
 Calculation_code  (kódy vyjádřené také v tabulce **czechia_payroll_calculation**)
+
 					- kod 100 - je fyzický počet zaměstnanců
 
 			        - kod 200 je přepočtený počet zaměstnanců na plný úvazek
