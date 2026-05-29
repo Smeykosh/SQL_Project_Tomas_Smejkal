@@ -74,17 +74,17 @@ value
 
 	    - nebo počet zaměstnanců. 
 	
-Value_type_code 	
+Value_type_code 	(kódy také vyjádřené v tabulce **czechia_payroll_value_type**)
 					- určuje jestli se zobrazí mzda 5958.
 
 			        - nebo jestli počet zaměstnanců kod 316.
 
-Unit_code 
+Unit_code 			(kódy vyjádřené také v tabulce **czechia_payroll_unit**)
 					- jeslti se zobrazí cena v kč - tedy kod 200
 
 		      		- nebo jestli je to počet zaměstnanců v tis - kod 80403
 
-Calculation_code  
+Calculation_code  (kódy vyjádřené také v tabulce **czechia_payroll_calculation**)
 					- kod 100 - je fyzický počet zaměstnanců
 
 			        - kod 200 je přepočtený počet zaměstnanců na plný úvazek
@@ -93,7 +93,7 @@ Payroll_year 		- rok kdy byla průměrná mzda zaznamenána
 
 Payroll_quarter 	- kvártál z roku měření
 
-industry_branch_code - kod měřeného odvětví
+industry_branch_code - kod měřeného odvětví (kódy vyjádřené také v tabulce **czechia_payroll_industry_branch**)
 
 					A	Zemědělství, lesnictví, rybářství
 					
@@ -147,7 +147,7 @@ id = id záznamu
 
 value - cena v czk
 
-category_code - kod kategorie produktu
+category_code - kod kategorie produktu (kódy též vyjádřeny v tabulce **czechia_price_category**)
 
 				- Hovězí maso zadní bez kosti [1 kg] [0112101]
 				
