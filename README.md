@@ -302,6 +302,10 @@ Popis sloupců tabulky **economies**:
 **_Poznámka - dokumentace nenalezena na stránkách statistického úřadu. Pro zodpovězení výzkumné otázky budou potřeba pouze první tři sloupce_**.
 
 *******
+
+## **Vytvoření primarní tabulky t_tomas_smejkal_project_sql_primary**
+
+
 	
 
 
