@@ -245,4 +245,7 @@ region_code - kod regionu - uzemí
 ***Poznámka - v dokumentaci není jednoznačně uvedeno že pro celorepublikové měření je hodnota NULL.***
 
 
+## **Analýza dat pro tvorbu primarní tabulky t_tomas_smejkal_project_sql_secondary_final**
+
+
 
