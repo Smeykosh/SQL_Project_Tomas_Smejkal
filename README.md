@@ -242,7 +242,7 @@ region_code - kod regionu - uzemí
 				
 				- Moravskoslezský kraj [CZ080]
 
-** Období měřených dat 2006 - 2018 **.
+***Období měřených dat 2006 - 2018***.
 				
 ***Poznámka - v dokumentaci není jednoznačně uvedeno že pro celorepublikové měření je hodnota NULL.***
 
