@@ -297,7 +297,7 @@ Popis sloupců tabulky **economies**:
 						- fertility
 						- mortaliy_under5
 
-			**Obsahuje data z obdoní 1960 - 2020**.
+			**Obsahuje data z období 1960 - 2020**
 
 **_Poznámka - dokumentace nenalezena na stránkách statistického úřadu. Pro zodpovězení výzkumné otázky budou potřeba pouze první tři sloupce_**.
 
