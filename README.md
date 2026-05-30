@@ -306,6 +306,7 @@ Popis sloupců tabulky **economies**:
 ## **Vytvoření primarní tabulky t_tomas_smejkal_project_sql_primary**
 
 Pro zodpovězení výzkumných otázek 1 - 4  budu potřebovat spojit tyto tabulky :
+																				
 																				- czechia_price				
 																				- czechia_payroll
 																				- czechia_price_category
