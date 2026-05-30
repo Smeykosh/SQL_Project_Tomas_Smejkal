@@ -284,6 +284,21 @@ Popis sloupců tabulky **countries**:
 						
 **_Poznámka - detailnějsí popis sloupců není nutný, protože pro zodpovězení výzkumných otázaek není tabulka relevantní a nebude použita_**.
 
+Popis sloupců tabulky **economies**:
+
+						- country 	( světové státy )
+						- year		(rok měření )
+						- gdp		(hrubý domácí produkt - HDP za měřený rok )
+						- population
+						- gini
+						- taxes
+						- fertility
+						- mortaliy_under5
+
+			**Obsahuje data z obdoní 1960 - 2020**.
+
+**_Poznámka - dokumentace nenalezena na stránkách statistického úřadu. Pro zodpovězení výzkumné otázky budou potřeba pouze první tři sloupce_**.
+
 	
 
 
