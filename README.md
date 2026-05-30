@@ -245,7 +245,7 @@ region_code - kod regionu - uzemí
 ***Poznámka - v dokumentaci není jednoznačně uvedeno že pro celorepublikové měření je hodnota NULL.***
 
 
-## **Analýza dat pro tvorbu primarní tabulky t_tomas_smejkal_project_sql_secondary_final**
+## **Analýza dat pro tvorbu sekundární tabulky t_tomas_smejkal_project_sql_secondary_final**
 
 Pro vytvoření sekundární tabulky jsou k dispozici data ze dvou tabulek: **countries** a **economies**.
 
@@ -281,6 +281,8 @@ Popis sloupců tabulky **countries**:
 						- median_age_2018
 						- iso2
 						- iso3
+						
+**_Poznámka - detailnějsí popis sloupců není nutný, protože pro zodpovězení výzkumných otázaek není tabulka relevantní a nebude použita_**.
 
 	
 
