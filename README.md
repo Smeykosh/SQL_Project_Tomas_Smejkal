@@ -305,6 +305,24 @@ Popis sloupců tabulky **economies**:
 
 ## **Vytvoření primarní tabulky t_tomas_smejkal_project_sql_primary**
 
+Pro zodpovězení výzkumných otázek 1 - 4  budu potřebovat spojit tyto tabulky :
+																				- czechia_price				
+																				- czechia_payroll
+																				- czechia_price_category
+																				- czechia_payroll_industry_branch
+
+Výsledná tabulka obsahuje tyto sloupce:
+
+																				- price_czk
+																				- category_code
+																				- price_measured_from
+																				- price_measured_to
+																				- avg_payroll_value_czk
+																				- payroll_year
+																				- name                            |
+																				- price_value
+																				- price_unit
+																				- industry_name   
 
 	
 
