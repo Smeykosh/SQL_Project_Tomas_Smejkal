@@ -301,6 +301,7 @@ Popis sloupců tabulky **economies**:
 
 **_Poznámka - dokumentace nenalezena na stránkách statistického úřadu. Pro zodpovězení výzkumné otázky budou potřeba pouze první tři sloupce_**.
 
+*******
 	
 
 
