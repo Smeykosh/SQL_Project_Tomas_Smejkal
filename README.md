@@ -247,5 +247,42 @@ region_code - kod regionu - uzemí
 
 ## **Analýza dat pro tvorbu primarní tabulky t_tomas_smejkal_project_sql_secondary_final**
 
+Pro vytvoření sekundární tabulky jsou k dispozici data ze dvou tabulek: **countries** a **economies**.
+
+Popis sloupců tabulky **countries**:
+
+						- country
+						- abbreviation
+						- avg_height
+						- calling_code
+						- capital_city
+						- continent
+						- currency_name
+						- religion
+						- currency_code
+						- domain_tld
+						- elevation
+						- north
+						- south
+						- west
+						- east
+						- government_type
+						- independence_date
+						- iso_numeric
+						- landlocked
+						- life_expectancy
+						- national_symbol
+						- national_dish
+						- population_density
+						- population
+						- region_in_world
+						- surface_area
+						- yearly_average_temperature
+						- median_age_2018
+						- iso2
+						- iso3
+
+	
+
 
 
