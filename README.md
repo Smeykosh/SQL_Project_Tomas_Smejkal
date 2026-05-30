@@ -59,7 +59,7 @@ Neupravujte data v primárních tabulkách! Pokud bude potřeba transformovat ho
 
 ***
 
-## **Tvorba primarní tabulky t_tomas_smejkal_project_sql_primary**
+## **Analýza dat pro tvorbu primarní tabulky t_tomas_smejkal_project_sql_primary**
 
 Zdroj tabulky **czechia_payroll**: https://csu.gov.cz/
 
