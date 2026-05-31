@@ -375,6 +375,15 @@ Při slučování byla pouze vybrána/vyfiltrována relevantní data pro zopdov�
 
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
+Z výsledných dat průměrných mezd seskupených dle roku měření a odvětví vyplývá, že průměrná mzda ve všech odvětvích v měřených letech 2006 - 2018 stoupá.
+
+U některých odvětví jako například "Administrativní a podpůrné činnosti", "Činnosti v oblasti nemovitostí", "Informační a komunikační činnosti", "Peněžnictví a pojišťovnictví", "Profesní a věděcké práce", 
+
+"Stavebnictví","Těžba a dobívání" můžeme vidět v letech 2012 a 2013 nízký meziroční pokles.
+
+Zajímavé je i zjištění, že v oboru "Výroba a rozvod elektřiny, plynu, tepla" došlo v průběhu zkoumaných let k delšímu meziročnímu poklesu mezd od roku 2012 a trval až do roku 2016. Ale v porovnání mezi roky 2008 a 2016 došlo celkovému růstu mezd v tomto období.
+
+
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
