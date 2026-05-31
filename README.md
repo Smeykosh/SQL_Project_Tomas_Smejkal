@@ -392,6 +392,10 @@ Jako první a poslední porovnatelné období jsou brány roky 2006 a 2018. Jako
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
+Jako ukazatel počítáme procentuální přírustek cen potraviny v každém roce, jelikož je cena měřena několikrát za rok. 
+
+**_Z výsledných dat je vidět, že nejnížší přírůstek má měřená potravina "Kapr Živý" v roce 2010. Pokud zrušíme funkci limit 1 tak vidíme že pro kapra je hodnota 0 bez meziročního přírůstku v letech 2010 - 2018. Asi je to tím že je to sezonní potravina a přes rok se moc neprodává._**
+
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
