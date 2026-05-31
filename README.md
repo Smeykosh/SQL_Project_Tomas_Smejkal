@@ -375,7 +375,7 @@ Při slučování byla pouze vybrána/vyfiltrována relevantní data pro zopdov�
 
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
-Z výsledných dat průměrných mezd seskupených dle roku měření a odvětví vyplývá, že průměrná mzda ve všech odvětvích v měřených letech 2006 - 2018 stoupá.
+**_Z výsledných dat průměrných mezd seskupených dle roku měření a odvětví je vidět, že průměrná mzda ve všech odvětvích v měřených letech 2006 - 2018 stoupá._**
 
 U některých odvětví jako například "Administrativní a podpůrné činnosti", "Činnosti v oblasti nemovitostí", "Informační a komunikační činnosti", "Peněžnictví a pojišťovnictví", "Profesní a věděcké práce", 
 
