@@ -370,3 +370,7 @@ Při slučování byla pouze vybrána/vyfiltrována relevantní data pro zopdov�
 **Výsledná tabulka obsahuje pouze shodné bodobí dat z let 2006 - 2018.**										
 
 ***
+
+##Výzkumné otázky##
+
+
