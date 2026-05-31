@@ -412,9 +412,7 @@ Pro vytvoření vysledků bylo použito dvou dočasných temp tabulek a to pro v
 Protože srovnáváme ceny a mzdy, které jsou dostupné pouze pro Českou republiku, yla v sekundární tabulce vyfiltrována data pouze pro Českou republiku. 
 
 **_Z výsledných dat vidíme, že nejvyší růst HDP byl v letech 2007 a 2015 a to o 5,39 %. V roce 2007-2008 došlo k nárustu cena o cca 6% a růstu mezd o 7%. V roce 2015 byl růst mezd 2,6 % a cem dokonce o -1,1 %.
-
-Nejnižší HDP tedy pokles o -5,05% byl zaznamenán v roce 2009, který byl  prováze i poklesem cen o -7,7 %. Nusledné roky pak ukazují s roustoucím HDP i roustucí ceny a mzdy.
-
+Nejnižší HDP tedy pokles o -5,05% byl zaznamenán v roce 2009, který byl  prováze i poklesem cen o -7,7 %. Následné roky pak ukazují s roustoucím HDP i roustucí ceny a mzdy.
 Zdat nevyplývá, že by s extrémními růst či pokles HDP měl vliv na cenu potravin či výši mezd._**
 
 ---
