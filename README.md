@@ -383,19 +383,19 @@ U některých odvětví jako například "Administrativní a podpůrné činnost
 
 Zajímavé je i zjištění, že v oboru "Výroba a rozvod elektřiny, plynu, tepla" došlo v průběhu zkoumaných let k delšímu meziročnímu poklesu mezd od roku 2012 a trval až do roku 2016. Ale v porovnání mezi roky 2008 a 2016 došlo celkovému růstu mezd v tomto období.
 
-
+---
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
 Jako první a poslední porovnatelné období jsou brány roky 2006 a 2018. Jako průměrná mzda je počítáta průměrná mzda ze všech období ve zkoumaném roce.
 
 **_Z výsledných dat je vidět, že v roce 2006 bylo možné z průměrné mzdy koupit 1312 kusů chleba a 202 kusů másla. V roce 2018 bylo z průměrné mzdy možné zakoupit 1365 kusů chleba ale už jenom 159 kusů másla._**
-
+---
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
 Jako ukazatel počítáme procentuální přírustek cen potraviny v každém roce, jelikož je cena měřena několikrát za rok. 
 
 **_Z výsledných dat je vidět, že nejnížší přírůstek má měřená potravina "Kapr Živý" v roce 2010. Pokud zrušíme funkci limit 1 tak vidíme že pro kapra je hodnota 0 bez meziročního přírůstku v letech 2010 - 2018. Asi je to tím že je to sezonní potravina a přes rok se moc neprodává._**
-
+---
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
