@@ -305,27 +305,62 @@ Popis sloupců tabulky **economies**:
 
 ## **Vytvoření primarní tabulky t_tomas_smejkal_project_sql_primary**
 
-Pro zodpovězení výzkumných otázek 1 - 4  budu potřebovat spojit tyto tabulky :
+Pro zodpovězení výzkumných otázek č.1 - 4  budu potřebovat spojit tyto tabulky :
 																				
-																				- czechia_price				
-																				- czechia_payroll
-																				- czechia_price_category
-																				- czechia_payroll_industry_branch
+																- czechia_price				
+																- czechia_payroll
+																- czechia_price_category
+																- czechia_payroll_industry_branch
 
 Výsledná tabulka obsahuje tyto sloupce:
 
-																				- price_czk
-																				- category_code
-																				- price_measured_from
-																				- price_measured_to
-																				- avg_payroll_value_czk
-																				- payroll_year
-																				- name                            |
-																				- price_value
-																				- price_unit
-																				- industry_name   
+																	- price_czk
+																	- category_code
+																	- price_measured_from
+																	- price_measured_to
+																	- avg_payroll_value_czk
+																	- payroll_year
+																	- name                            |
+																	- price_value
+																	- price_unit
+																	- industry_name   
 
+__Hlavní tabulky czechia_price a payroll_year jsou spojeny přes sloupec: czechia_price.date_from a checzia_payroll.payroll_year__
+		Dodatečné tabulky: 
+
+				- czechia_price_category je spojena přes sloupce czechia_price_category.code = czechia_price.category_code
+
+				- czechia_payroll_industry_branch je spojena přes sloupce czechia_payroll.industry_branch_code = czechia_payroll_industry_branch.code
+
+**Výsledná tabulka obsahuje průsečík bodobí dat z let 2006 - 2018.**
+
+Při slučování byla pouze vybrána/filtrována relevantní data z tabulky **czechia_payroll** a **czechia_price** pro zodpovězení výzkumných otázek tedy :
+
+				- czechia_payroll.value_type_code = 5958 ( průměřná mzda )
+
+				- czechia_payroll.unit_code = 200 ( jednotka v Kč )
+
+				- czechia_payroll.calculation_code = 200 ( položka 200 přepočtený počet zaměstnanců na plný úvazek )
+
+				- czechia_price IS NULL ( měření celorepublikové )
+
+						
 	
+## **Vytvoření sekundární tabulky t_tomas_smejkal_project_sql_secondary_final**
 
+Pro zdopovězení výzkumné otázky č.5 budu potřebovat spojit tyto tabulky:
+
+															- t_tomas_smejkal_project_sql_primary
+															- economies
+
+Výsledná tabulka obsahuje tyto sloupce: 
+
+															- avg_payroll_year_price
+															- avg_payroll_year_value
+															- payroll_year
+															- country       
+															- gdp     
+
+															- 
 
 
