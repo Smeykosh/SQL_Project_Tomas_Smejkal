@@ -332,7 +332,7 @@ __Hlavní tabulky czechia_price a payroll_year jsou spojeny přes sloupec: czech
 
 				- czechia_payroll_industry_branch je spojena přes sloupce czechia_payroll.industry_branch_code = czechia_payroll_industry_branch.code
 
-**Výsledná tabulka obsahuje průsečík bodobí dat z let 2006 - 2018.**
+**Výsledná tabulka obsahuje pouze shodné bodobí dat z let 2006 - 2018.**
 
 Při slučování byla pouze vybrána/filtrována relevantní data z tabulky **czechia_payroll** a **czechia_price** pro zodpovězení výzkumných otázek tedy :
 
@@ -361,6 +361,12 @@ Výsledná tabulka obsahuje tyto sloupce:
 															- country       
 															- gdp     
 
-															- 
+Tabulky jsou spojeny přes sloupce t_tomas_smejkal_project_sql_primary.payroll_year a economies.year.
 
+Při slučování byla pouze vybrána/vyfiltrována relevantní data pro zopdovězení výzkumné otázky č. 5
 
+										- e.country = 'Czech Republic'
+
+**Výsledná tabulka obsahuje pouze shodné bodobí dat z let 2006 - 2018.**										
+
+***
