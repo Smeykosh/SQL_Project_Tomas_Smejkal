@@ -388,7 +388,7 @@ Zajímavé je i zjištění, že v oboru "Výroba a rozvod elektřiny, plynu, te
 
 Jako první a poslední porovnatelné období jsou brány roky 2006 a 2018. Jako průměrná mzda je počítáta průměrná mzda ze všech období ve zkoumaném roce.
 
-**_Z výsledných dat je vidět, že v roce 2006 bylo možné z průměrné mzdy koupit 1312 kusů chleba a 202 kusů másla. V roce 2018 bylo z průměrné mzdy možné zakoupit 1365 kusů chleba ale už jenom 159 kusů másla.__**
+**_Z výsledných dat je vidět, že v roce 2006 bylo možné z průměrné mzdy koupit 1312 kusů chleba a 202 kusů másla. V roce 2018 bylo z průměrné mzdy možné zakoupit 1365 kusů chleba ale už jenom 159 kusů másla._**
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
